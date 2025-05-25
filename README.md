@@ -73,4 +73,18 @@ npm run dev
 
 ---
 
+---
 
+## Bonus: Unit Tests
+
+A basic unit test for the Markdown parser is included using **Jest**.
+
+### Location
+
+backend/utils/markdownParser.test.js
+
+### Run the test
+
+cd backend
+npm install 
+npm test
