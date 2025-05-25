@@ -85,6 +85,7 @@ backend/utils/markdownParser.test.js
 
 ### Run the test
 
+```bash
 cd backend
 npm install 
 npm test
