@@ -15,7 +15,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chunk-mate.git
+git clone https://github.com/AravindA2002/chunk-mate.git
 cd chunk-mate
 ```
 
